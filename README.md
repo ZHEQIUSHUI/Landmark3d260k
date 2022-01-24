@@ -18,6 +18,7 @@
 all open source dataset contributor 
 
 
-
-## demo用torch模型写的，大家将就着看吧，前后处理大概就那么个意思，改成onnxruntime就可以耍了（欢迎pr）。
-## 我这么贴心的把怎么读数据集都写出来了
+## 一些中国话
+ demo用torch模型写的，大家将就着看吧，前后处理大概就那么个意思，改成onnxruntime就可以耍了（欢迎pr）。
+ 
+ 我这么贴心的把怎么读数据集都写出来了，应该没人有意见了叭
